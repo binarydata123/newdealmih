@@ -1,0 +1,5 @@
+/*!
+ * vue-slide-bar v1.2.0
+ * (c) 2018-present biig_pongsatorn <biig_pongsatorn@hotmail.com>
+ * Released under the MIT License.
+ */

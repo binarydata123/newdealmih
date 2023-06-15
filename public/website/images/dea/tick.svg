@@ -1,0 +1,17 @@
+<svg id="tick" xmlns="http://www.w3.org/2000/svg" width="16.361" height="16.361">
+    <defs>
+        <style>
+            .cls-1{fill:#567df4}
+        </style>
+    </defs>
+    <g id="Group_8701" data-name="Group 8701" transform="translate(3.885 2.056)">
+        <g id="Group_8700" data-name="Group 8700">
+            <path id="Path_22430" data-name="Path 22430" class="cls-1" d="M133.576 64.508a.616.616 0 0 0-.872 0l-7.4 7.378-2.669-2.9a.617.617 0 1 0-.907.835l3.1 3.371a.616.616 0 0 0 .44.2h.013a.617.617 0 0 0 .435-.18l7.852-7.831a.617.617 0 0 0 .008-.873z" transform="translate(-121.568 -64.327)"/>
+        </g>
+    </g>
+    <g id="Group_8703" data-name="Group 8703">
+        <g id="Group_8702" data-name="Group 8702">
+            <path id="Path_22431" data-name="Path 22431" class="cls-1" d="M15.745 7.564a.617.617 0 0 0-.617.617 6.947 6.947 0 1 1-6.947-6.948.617.617 0 1 0 0-1.233 8.181 8.181 0 1 0 8.181 8.181.617.617 0 0 0-.617-.617z"/>
+        </g>
+    </g>
+</svg>

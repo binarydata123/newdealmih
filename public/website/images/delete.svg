@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.151" height="19.2">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#e60601;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.2px}
+        </style>
+    </defs>
+    <g id="Group_666" data-name="Group 666" transform="translate(-231.4 -207.4)">
+        <g id="Icon_Delete" transform="translate(232 208)">
+            <path id="Shape" class="cls-1" d="M0 0h15.951" transform="translate(0 3.6)"/>
+            <path id="Shape-2" data-name="Shape" class="cls-1" d="M10.285 18H1.714A1.761 1.761 0 0 1 0 16.2V3.6h2.571V1.8A1.761 1.761 0 0 1 4.286 0h3.428a1.761 1.761 0 0 1 1.714 1.8v1.8H12v12.6a1.761 1.761 0 0 1-1.715 1.8z" transform="translate(2.447)"/>
+            <path id="Shape-3" data-name="Shape" class="cls-1" d="M0 0v5.317" transform="translate(6.447 7.952)"/>
+            <path id="Shape-4" data-name="Shape" class="cls-1" d="M0 0v5.317" transform="translate(9.992 7.952)"/>
+        </g>
+    </g>
+</svg>

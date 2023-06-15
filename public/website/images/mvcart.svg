@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.525" height="17.869">
+    <defs>
+        <style>
+            .cls-1{fill:#219eff}
+        </style>
+    </defs>
+    <g id="Group_1007" data-name="Group 1007" transform="translate(-338.094 -33)">
+        <g id="Group_287" data-name="Group 287" transform="translate(351.118 46)">
+            <g id="Group_286" data-name="Group 286">
+                <path id="Path_16658" data-name="Path 16658" class="cls-1" d="M343.981 362.612a2.434 2.434 0 1 0 2.434 2.434 2.437 2.437 0 0 0-2.434-2.434zm0 3.408a.974.974 0 1 1 .974-.974.975.975 0 0 1-.974.974z" transform="translate(-341.547 -362.612)"/>
+            </g>
+        </g>
+        <g id="Group_289" data-name="Group 289" transform="translate(338.094 33)">
+            <g id="Group_288" data-name="Group 288">
+                <path id="Path_16659" data-name="Path 16659" class="cls-1" d="M19.369 25.3a.729.729 0 0 0-.575-.28H4.508l-.657-2.75a.731.731 0 0 0-.71-.561H.73a.73.73 0 1 0 0 1.461h1.834l2.374 9.93a.73.73 0 0 0 .71.561h11.369a.73.73 0 0 0 .709-.555l1.774-7.184a.732.732 0 0 0-.131-.622zm-2.924 6.9H6.225l-1.368-5.723h13z" transform="translate(0 -21.705)"/>
+            </g>
+        </g>
+        <g id="Group_291" data-name="Group 291" transform="translate(342.281 46)">
+            <g id="Group_290" data-name="Group 290">
+                <path id="Path_16660" data-name="Path 16660" class="cls-1" d="M112.24 362.612a2.434 2.434 0 1 0 2.434 2.434 2.437 2.437 0 0 0-2.434-2.434zm0 3.408a.974.974 0 1 1 .974-.974.975.975 0 0 1-.974.974z" transform="translate(-109.806 -362.612)"/>
+            </g>
+        </g>
+    </g>
+</svg>
